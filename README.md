@@ -6,3 +6,13 @@ There is no difference between chatting with ChiBot and chatting with AlexChi [@
 It can be an unprecedented perfect alternative when Alex Chi does not reply your message even though he has already read your message. You can even pretend to be Alex Chi in a group chat with this bot.
 
 *NOTE: IT CAN NOT PROVIDE TECHNICAL HELP AS ALEX CHI DOES.*
+
+*DO NOT TAKE IT SERIOUSLY*
+
+*JUST FOR FUN : )*
+
+## About Mr.Chi
+Mr. Chi, namely, Alex Chi, is definitely a prodigy. He ranks NO.1 in School of EIEE, SJTU, every single semester. He is good at, which means extraordinarily perfect at everything except Chinese in high school. 
+His programming experience from childhood has given him a wealth of experience, and his superior learning ability equips him with a profound knowledge of everything. He goes running everyday, which makes him energetic enough to code 40 hours a day. He can precisely tell all errors, even warnings, in any block of codes, before it has been compiled. He can even control the eletricity flows in a computer to code. 
+
+However, Chi has a wiered hobby, namely, *selling vegetable*. In Chinese it is `卖菜`, which means pretending to be weak and telling others how weak oneself is all the time. 
