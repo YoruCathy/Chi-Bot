@@ -22,4 +22,4 @@ Despite the fact that Chi sells vegetable on a 007 basis, he is popular because 
 ## How it works
 
 ## License
-Chi Bot is licensed under [WTFPL](http://www.wtfpl.net/)
+Chi Bot is licensed under [WTFPL](http://www.wtfpl.net/).
