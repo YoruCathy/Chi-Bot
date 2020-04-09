@@ -18,3 +18,8 @@ His programming experience from childhood has given him a wealth of experience, 
 However, Chi has a wiered hobby, namely, `selling vegetable`. In Chinese it is `卖菜`, which means pretending to be weak and telling others how weak oneself is all the time. No one knows exactly why he is so addicted selling vegetable, but everyone knows he will not miss any chance of selling vegetable. His signature phrase includes `我好菜啊` `我菜爆了` `我是什么垃圾` `我好堕落` and a bunch of phrases similar with these. This confusing hobby is so notorious that there is an idiom `迟名中外`,whichi vividly describes how well-known and loved Chi is.
 
 Despite the fact that Chi sells vegetable on a 007 basis, he is popular because he can give immediate technical support for any problem, if he is in a good mood. For an obvious question or inapropriate timing, or a certain moment that he is not in a good mood, he will randomly reply `哦` `冷漠` `不知道.png`.
+
+## How it works
+
+## License
+Chi Bot is licensed under [WTFPL](http://www.wtfpl.net/)
