@@ -13,11 +13,11 @@ It can be an unprecedented perfect alternative when Alex Chi does not reply your
 
 ## About Mr.Chi
 Mr. Chi, namely, Alex Chi, is definitely a prodigy. He ranks NO.1 in School of EIEE, SJTU, every single semester. He is good at, which means extraordinarily perfect at everything except Chinese in high school. 
-His programming experience from childhood has given him a wealth of experience, and his superior learning ability equips him with a profound knowledge of everything. He goes running everyday, which makes him energetic enough to code 40 hours a day. He can precisely tell all errors, even warnings, in any block of codes, before they have been compiled. He can even control the current in a computer to force the machine to store codes for him. 
+His programming experience from childhood has given him a wealth of experience, and his superior learning ability equips him with a profound knowledge of everything. He goes running every day, which makes him energetic enough to code 40 hours a day. He can precisely tell all errors, even warnings, in any block of codes, before they have been compiled. He can even control the current in a computer to force the machine to store codes for him. 
 
-However, Chi has a wiered hobby, namely, `selling vegetable`. In Chinese it is `卖菜`, which means pretending to be weak and telling others how weak oneself is all the time. No one knows exactly why he is so addicted selling vegetable, but everyone knows he will not miss any chance of selling vegetable. His signature phrase includes `我好菜啊` `我菜爆了` `我是什么垃圾` `我好堕落` and a bunch of phrases similar with these. This confusing hobby is so notorious that there is an idiom `迟名中外`,whichi vividly describes how well-known and loved Chi is.
+However, Chi has a weird hobby, namely, `selling vegetable`. In Chinese, it is `卖菜`, which means pretending to be weak and telling others how weak oneself is all the time. No one knows exactly why he is so addicted to selling vegetable, but everyone knows he will not miss any chance of selling vegetable. His signature phrase includes `我好菜啊` `我菜爆了` `我是什么垃圾` `我好堕落` and a bunch of phrases similar to these. This confusing hobby is so notorious that there is an idiom `迟名中外`, which vividly describes how well-known and loved Chi is.
 
-Despite the fact that Chi sells vegetable on a 007 basis, he is popular because he can give immediate technical support for any problem, if he is in a good mood. For an obvious question or inapropriate timing, or a certain moment that he is not in a good mood, he will randomly reply `哦` `冷漠` `不知道.png`.
+Despite the fact that Chi sells vegetable on a 007 basis, he is popular because he can give immediate technical support for any problem, if he is in a good mood. For an obvious question or inappropriate timing, or a certain moment that he is not in a good mood, he will randomly reply `哦` `冷漠` `不知道.png`.
 
 ## How it works
 
