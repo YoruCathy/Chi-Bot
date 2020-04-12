@@ -20,6 +20,8 @@ However, Chi has a weird hobby, namely, `selling vegetable`. In Chinese, it is `
 Despite the fact that Chi sells vegetable on a 007 basis, he is popular because he can give immediate technical support for any problem, if he is in a good mood. For an obvious question or inappropriate timing, or a certain moment that he is not in a good mood, he will randomly reply `哦` `冷漠` `不知道.png`.
 
 ## How it works
-
+## Update
+04.12 A naive generator has been created!  
+04.12 Alex Chi has become a fan of HoshinoGenn 星野源（ほしの げん）. Considering a new feature: start a twitter bot, which tweets about HoshinoGenn, and sells vegetable as well.
 ## License
 Chi Bot is licensed under [WTFPL](http://www.wtfpl.net/).
