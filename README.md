@@ -22,7 +22,7 @@ Despite the fact that Chi sells vegetable on a 007 basis, he is popular because 
 ## How it works
 ## Update
 04.12 A naive generator has been created!  
-04.12 Alex Chi has become a fan of HoshinoGenn 星野源（ほしの げん）. Considering a new feature: start a twitter bot, which tweets about HoshinoGenn, and sells vegetable as well.
+04.12 Alex Chi has become a fan of HoshinoGenn 星野源（ほしの げん）. Considering a new feature: start a twitter bot, which tweets about HoshinoGenn, and sells vegetable as well.  
 04.14 TODO：Telegram Bot, Twitter Bot, QQ Bot
 ## License
 Chi Bot is licensed under [WTFPL](http://www.wtfpl.net/).
